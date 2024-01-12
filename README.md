@@ -1,5 +1,4 @@
-### Hi there Im Sam
-# A Synthetic Kiwi
+# Sam
 
 I'm a student in New Zealand working on lots of random projects and other things that I feel like working on. I focus more on game dev and may open source a few projects if I feel like it.
 Have an awesome day!
