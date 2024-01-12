@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there Im Sam
+# A Synthetic Kiwi
+
+I'm a student in New Zealand working on lots of random projects and other things that I feel like working on. I focus more on game dev and may open source a few projects if I feel like it.
+Have an awesome day!
+
 
 <!--
 **syntheticsam/syntheticsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
