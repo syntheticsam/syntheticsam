@@ -11,4 +11,4 @@ Have an awesome day!
 - 💬 Ask me about anything!
 - 📫 How to reach me: Email - sam@synthetic.kiwi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've had to sign an nda for a billion dollar company.
+- ⚡ Fun fact: I play beatsaber! ![My Beatleader](https://beatleader.xyz/u/76561199013600657) and ![My Scoresaber](https://scoresaber.com/u/76561199013600657)
